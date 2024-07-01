@@ -13,7 +13,7 @@ M_warp = 1e25  # hypothetical exotic matter
 # Alcubierre metric parameters
 R = 3  # Warp bubble radius
 sigma = 8  # Controls bubble thickness
-v_max = 2 * c  # Maximum warp velocity
+v_max = 3 * c  # Maximum warp velocity
 
 
 x = np.linspace(-10, 10, 500)
