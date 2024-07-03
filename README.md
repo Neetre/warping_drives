@@ -23,7 +23,7 @@ python >= 3.8
 
 These scripts will install required dependencies, and build a virtual environment for you if you don't have one.
 
-## Running the Program (CLI or GUI)
+## Running the Program
 
 ### CLI
 
