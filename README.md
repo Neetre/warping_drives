@@ -32,7 +32,7 @@ These scripts will install required dependencies, and build a virtual environmen
 2. Execute `python warpdrive.py` (use `python3` on Linux/macOS) in your terminal
 
 Here is an example of the output:
-[![Guarda il video](/data/warp_bubble_alcubierre.gif)]
+![Guarda il video](/data/warp_bubble_alcubierre.gif)
 
 ## Author
 
