@@ -122,6 +122,6 @@ def update_warp_bubble(frame):
     ax.set_zlabel('Space-Time Curvature / Time Dilation')
 
 ani = animation.FuncAnimation(fig, update_warp_bubble, frames=200, interval=50)
-ani.save('../data/warp_bubble_alcubierre.mp4', writer='ffmpeg')
+ani.save('../data/warp_bubble_alcubierre.gif', writer='ffmpeg')
 
 # Optionally, show the plot (may be slow for high-res animations)

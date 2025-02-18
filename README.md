@@ -10,7 +10,7 @@ See [Wikipedia](https://en.wikipedia.org/wiki/Alcubierre_drive) or the [Official
 
 You can find the simulation in the `data` directory.
 In the video, you can see the fabric of spacetime being warped by the warp drive bellow, and the ship moving through in the middle.
-At some point, as the ship goes over the speed of light, the bubble collapses (there is a spike).
+At some point, as the ship goes over the speed of light, the bubble collapses (there is a spike, RIP humans).
 
 ## Requirements
 
@@ -23,13 +23,16 @@ python >= 3.8
 
 These scripts will install required dependencies, and build a virtual environment for you if you don't have one.
 
-## Running the Program (CLI or GUI)
+## Running the Program
 
 ### CLI
 
 1. Navigate to the `bin` directory: `cd bin`
 
 2. Execute `python warpdrive.py` (use `python3` on Linux/macOS) in your terminal
+
+Here is an example of the output:
+![Guarda il video](/data/warp_bubble_alcubierre.gif)
 
 ## Author
 
